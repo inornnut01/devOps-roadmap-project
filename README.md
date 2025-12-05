@@ -19,6 +19,11 @@ This repository contains practice projects from the [DevOps roadmap](https://roa
 - **Project Link**: [roadmap.sh/projects/nginx-log-analyser](https://roadmap.sh/projects/nginx-log-analyser)
 - **Solution**: [View implementation](./devOps-project/ngix-log-analyser)
 
+### SSH Remote Server Setup
+
+- **Project Link**: [roadmap.sh/projects/ssh-remote-server-setup](https://roadmap.sh/projects/ssh-remote-server-setup)
+- **Solution**: [View implementation](./devOps-project/ssh-remote-server-setup)
+
 ## Resources
 
 - All DevOps projects can be found on [roadmap.sh/devops/projects](https://roadmap.sh/devops/projects)
