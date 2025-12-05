@@ -24,6 +24,11 @@ This repository contains practice projects from the [DevOps roadmap](https://roa
 - **Project Link**: [roadmap.sh/projects/ssh-remote-server-setup](https://roadmap.sh/projects/ssh-remote-server-setup)
 - **Solution**: [View implementation](./devOps-project/ssh-remote-server-setup)
 
+### Static Site Server
+
+- **Project Link**: [roadmap.sh/projects/static-site-server](https://roadmap.sh/projects/static-site-server)
+- **Solution**: [View implementation](./devOps-project/static-site-server)
+
 ## Resources
 
 - All DevOps projects can be found on [roadmap.sh/devops/projects](https://roadmap.sh/devops/projects)
