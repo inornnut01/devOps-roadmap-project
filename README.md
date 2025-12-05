@@ -9,6 +9,11 @@ This repository contains practice projects from the [DevOps roadmap](https://roa
 - **Project Link**: [roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
 - **Solution**: [View implementation](./devOps-project/server-performance-stats)
 
+### Log Archive Tool
+
+- **Project Link**: [roadmap.sh/projects/server-stats](https://roadmap.sh/projects/log-archive-tool)
+- **Solution**: [View implementation](./devOps-project/log-archive-tool)
+
 ## Resources
 
 - All DevOps projects can be found on [roadmap.sh/devops/projects](https://roadmap.sh/devops/projects)
