@@ -11,8 +11,13 @@ This repository contains practice projects from the [DevOps roadmap](https://roa
 
 ### Log Archive Tool
 
-- **Project Link**: [roadmap.sh/projects/server-stats](https://roadmap.sh/projects/log-archive-tool)
+- **Project Link**: [roadmap.sh/projects/log-archive-tool](https://roadmap.sh/projects/log-archive-tool)
 - **Solution**: [View implementation](./devOps-project/log-archive-tool)
+
+### Nginx Log Analyser
+
+- **Project Link**: [roadmap.sh/projects/nginx-log-analyser](https://roadmap.sh/projects/nginx-log-analyser)
+- **Solution**: [View implementation](./devOps-project/ngix-log-analyser)
 
 ## Resources
 
