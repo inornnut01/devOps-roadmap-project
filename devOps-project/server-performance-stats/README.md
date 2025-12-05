@@ -18,4 +18,4 @@ chmod +x server-stats.sh
 - Top 5 processes by CPU usage
 - Top 5 processes by Memory usage
 
-This project is part of roadmap.sh(https://roadmap.sh/projects/server-stats) DevOps projects.
+This project is part of [roadmap.sh DevOps projects](https://roadmap.sh/projects/server-stats).

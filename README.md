@@ -6,7 +6,8 @@ This repository contains practice projects from the [DevOps roadmap](https://roa
 
 ### Server Performance Stats
 
-- **Solution**: [View implementation](https://github.com/inornnut01/devOps-roadmap-project/tree/059ab5504ed6dc6191c6cd368325e3b746557f3d/devOps-project/server-performance-stats)
+- **Project Link**: [roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
+- **Solution**: [View implementation](./devOps-project/server-performance-stats)
 
 ## Resources
 
