@@ -34,6 +34,11 @@ This repository contains practice projects from the [DevOps roadmap](https://roa
 - **Project Link**: [roadmap.sh/projects/basic-dns-setup](https://roadmap.sh/projects/basic-dns)
 - **Solution**: [View implementation](./devOps-project/basic-dns-setup)
 
+### Simple Monitoring
+
+- **Project Link**: [roadmap.sh/projects/simple-monitoring](https://roadmap.sh/projects/simple-monitoring-dashboard)
+- **Solution**: [View implementation](./devOps-project/simple-monitoring)
+
 ## Resources
 
 - All DevOps projects can be found on [roadmap.sh/devops/projects](https://roadmap.sh/devops/projects)
